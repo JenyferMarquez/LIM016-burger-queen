@@ -99,9 +99,11 @@ HU 3:  Meserx debe ver pedidos listos para servir
 
 🔎 ¿Cuáles son las secciones más relevantes que quieren ver en la interfaz? y ¿por qué?
 
-"
+La seccion de toma de pedidos para mozo y la seccion de  pedidos a preparar para el cocinero.
+
 🔎 ¿Cuándo utilizan o utilizarían el producto?
 
+Durante su jornada laboral, al momento de tomar sus pedidos 
 ## Índice
 
 * [1. Preámbulo](#1-preámbulo)
